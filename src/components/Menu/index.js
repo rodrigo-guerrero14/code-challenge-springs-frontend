@@ -17,7 +17,7 @@ function Menu(){
                 </div>
               </li>
               <li>
-                <a href="/" className="nav-link px-3 active">
+              <a href="/code-challenge-springs-frontend" className="nav-link px-3 active">
                   <span className="me-2"><i className="bi bi-speedometer2"></i></span>
                   <span>Inicio</span>
                 </a>
