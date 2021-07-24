@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/code-challenge-springs-frontend/static/css/main.3d1aabbc.chunk.css",
-    "main.js": "/code-challenge-springs-frontend/static/js/main.8d73da9d.chunk.js",
-    "main.js.map": "/code-challenge-springs-frontend/static/js/main.8d73da9d.chunk.js.map",
+    "main.js": "/code-challenge-springs-frontend/static/js/main.edbdfd8d.chunk.js",
+    "main.js.map": "/code-challenge-springs-frontend/static/js/main.edbdfd8d.chunk.js.map",
     "runtime-main.js": "/code-challenge-springs-frontend/static/js/runtime-main.7e1f85c1.js",
     "runtime-main.js.map": "/code-challenge-springs-frontend/static/js/runtime-main.7e1f85c1.js.map",
     "static/js/2.0532a129.chunk.js": "/code-challenge-springs-frontend/static/js/2.0532a129.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.7e1f85c1.js",
     "static/js/2.0532a129.chunk.js",
     "static/css/main.3d1aabbc.chunk.css",
-    "static/js/main.8d73da9d.chunk.js"
+    "static/js/main.edbdfd8d.chunk.js"
   ]
 }
