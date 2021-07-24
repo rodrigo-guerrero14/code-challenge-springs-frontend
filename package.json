@@ -1,8 +1,8 @@
 {
-  "homepage":"http://rodrigo-guerrero14.github.io/code-challenge-springs-front",
   "name": "code-challenge-springs-front",
   "version": "0.1.0",
   "private": true,
+  "homepage":"http://rodrigo-guerrero14.github.io/code-challenge-springs-front",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
