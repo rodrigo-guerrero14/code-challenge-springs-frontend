@@ -1,7 +1,9 @@
 # 👨‍💻 Code Challenge Springs Digital
 
 Para el desafio se debia realizo una aplicación web en donde se interactua con una API entregada por springs digital (https://mindicador.cl/), a la que se realizaron peticion a traves de la función fetch, para posteriormente redenrizar los datos en el dashboard generado para el proyecto.
+
 Como se ha solicitado se ha usado Redux para la comunicación entre componentes, además se ha optado por utilizar wouter para el redireccionamiento de los diferentes componentes creados para este proyecto.
+
 Cabe mencionar que se ha utilizado la dependencia gh-pages para subir el proyecto generado en react a pages de github, el link se podrá encontrar en el About de este repositorio.
 
 ## ✨ Tecnologias
@@ -26,10 +28,12 @@ Se ha generado un Dashboard responsivo con bootstrap.
 <div align="center">
 <img src="./doc/Provider.png" />
 </div>
+<hr/>
 
 <div align="center">
 <img src="./doc/reducers.png" />
 </div>
+<hr/>
 
 <div align="center">
 <img src="./doc/useSelector.png" />
@@ -48,6 +52,7 @@ En el code Challenge se ha solicitado que cada una hora se realice una petición
 <div align="center">
 <img src="./doc/Switch and Route.png" />
 </div>
+<hr/>
 
 <div align="center">
 <img src="./doc/Link.png" />
