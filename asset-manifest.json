@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/code-challenge-springs-front/static/css/main.3d1aabbc.chunk.css",
+    "main.js": "/code-challenge-springs-front/static/js/main.8d73da9d.chunk.js",
+    "main.js.map": "/code-challenge-springs-front/static/js/main.8d73da9d.chunk.js.map",
+    "runtime-main.js": "/code-challenge-springs-front/static/js/runtime-main.81b7ee13.js",
+    "runtime-main.js.map": "/code-challenge-springs-front/static/js/runtime-main.81b7ee13.js.map",
+    "static/js/2.0532a129.chunk.js": "/code-challenge-springs-front/static/js/2.0532a129.chunk.js",
+    "static/js/2.0532a129.chunk.js.map": "/code-challenge-springs-front/static/js/2.0532a129.chunk.js.map",
+    "index.html": "/code-challenge-springs-front/index.html",
+    "static/css/main.3d1aabbc.chunk.css.map": "/code-challenge-springs-front/static/css/main.3d1aabbc.chunk.css.map",
+    "static/js/2.0532a129.chunk.js.LICENSE.txt": "/code-challenge-springs-front/static/js/2.0532a129.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81b7ee13.js",
+    "static/js/2.0532a129.chunk.js",
+    "static/css/main.3d1aabbc.chunk.css",
+    "static/js/main.8d73da9d.chunk.js"
+  ]
+}
