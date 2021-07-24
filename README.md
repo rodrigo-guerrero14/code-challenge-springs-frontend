@@ -1,6 +1,6 @@
 # 👨‍💻 Code Challenge Springs Digital
 
-Para el desafio se realizó una aplicación web en donde se interactua con una API entregada por springs digital (https://mindicador.cl/), a la que se realizaron peticion a traves de la función fetch, para posteriormente redenrizar los datos en el dashboard generado para el proyecto.
+Para el desafio se realizó una aplicación web en donde se interactua con una API entregada por springs digital (https://mindicador.cl/), a la que se realiza peticiones a traves de la función fetch, para posteriormente redenrizar los datos en el dashboard generado para el proyecto.
 
 Como se ha solicitado se ha usado Redux para la comunicación entre componentes, además se ha optado por utilizar wouter para el redireccionamiento de los diferentes componentes creados para este proyecto.
 
