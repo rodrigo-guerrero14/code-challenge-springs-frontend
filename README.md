@@ -4,7 +4,7 @@ Para el desafio se debia realizo una aplicación web en donde se interactua con 
 
 ## 🦾 Dashboard generado
 <div align="center">
-<img width="120px"  src="./doc/page.png" />
+<img src="./doc/page.png" />
 </div>
 
 
